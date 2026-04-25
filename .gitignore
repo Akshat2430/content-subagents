@@ -1,0 +1,12 @@
+content-drops/*
+!content-drops/.gitkeep
+
+memory/*
+!memory/.gitkeep
+
+.DS_Store
+*.log
+.env
+.env.local
+
+PRD.md

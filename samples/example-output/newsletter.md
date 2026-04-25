@@ -1,0 +1,5 @@
+There's a line I keep coming back to from this week's talk: "Perfectionism is not a higher standard. It's a defense mechanism." That one landed harder than I expected, probably because I've lived it. I spent three years on a side project that never launched — 74 pages of notes, six logo variants, a domain name parked and waiting. A friend built something rougher in a weekend and had 400 real users before I'd picked a font. She won, and she won specifically because she was willing to look bad in front of twelve people.
+
+The reframe that clicked for me is that the ugly V1 and the polished version aren't different points on the same spectrum. They're different products built for different jobs. The ugly one exists to answer one question — does anyone actually want this? The full product exists to deliver value. You can't do the second job without the information the first one gives you. Trying to skip straight to the polished version doesn't raise your odds. It just means you spend two years finding out the answer is no, instead of two weeks.
+
+Full talk is here — worth the six minutes if you've got something sitting in a Notion doc right now.
